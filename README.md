@@ -1,2 +1,2 @@
-# santos004.github.io
-Portfolio
+# Prog-102 Portfolio
+Simple programming portfolio
