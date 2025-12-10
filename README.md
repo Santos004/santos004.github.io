@@ -1,6 +1,34 @@
 # Prog-102 Portfolio
-Simple programming portfolio
-<img width="920" height="599" alt="duck" src="https://github.com/user-attachments/assets/959d1182-3620-494e-8916-49dc860db6e0" />
+Hyde's simple programming portfolio for the Fall of 2025.
+
+
+# Processing
+Using Processing, I was able to create some colourful composition pieces that stay true to my taste.
+I would go back to this to make randomized textures to add to my art for fun, as I usually make it seperately on a different layer manually.
+
+This was my first time coding using Javascript-- going line by line really helped! Thank you, Professor Baxter!
+<img width="460" height="300" alt="yellow" src="https://github.com/user-attachments/assets/4f24c716-bd71-4c2f-a934-bb632a4bb820" />
+<img width="460" height="300" alt="blue" src="https://github.com/user-attachments/assets/9f7241ba-7028-4892-b1eb-557b0402d55b" />
+
+OG Code Credit: Janelle Baxter
+
+# Processing Part 2
+Back to Processing! Felt more confident-- & I had a vision. FRUIT.
+I was really amazed by what Processing is actually capable of, but that I was actually able to get it to work!
+Composition that came out was GORGEOUS-- especially for a first attempt.
+
+
+<img width="613" height="399" alt="duck" src="https://github.com/user-attachments/assets/9f8a7ecf-2aeb-4fcc-849e-adf4906029b5" />
+
+While the code was easy to follow, I had a hiccup with resizing in the code itself-- I used a shortcut through resizing it from the file directly & cutting the backgrounds.
+
+OG Code Credit: Janelle Baxter
+
+
+Art credits from PublicDomainPictures.Net;
+Karen Arnold: Strawberry, Cherry, Lemon
+Martina Stokow: Grape
+Andrea Stöckel: Pitted Cherry
 
 
 # Weather Data Visualization
