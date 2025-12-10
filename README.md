@@ -71,7 +71,7 @@ My pride & joy! An interactive website that features data given by the Animation
 It consists of an interactive USA map where you can hover over states for more information & toggle between data sets for different information.
 
 
-<img width="638" height="576" alt="default" src="https://github.com/user-attachments/assets/9d9fd30a-c315-40c3-91f6-43b6f6e2805a" />
+<img width="425" height="384" alt="default" src="https://github.com/user-attachments/assets/9d9fd30a-c315-40c3-91f6-43b6f6e2805a" />
 
 
 I struggled a lot with this one. I think I was overly ambitious & didn't end up with the result in my head. I learned a lot from this project with all the failing.
