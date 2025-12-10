@@ -1,4 +1,6 @@
 # Prog-102 Portfolio
+![Hyde](https://github.com/user-attachments/assets/d905639f-eb65-49c5-b020-e6290981f2af)
+
 Hyde's simple programming portfolio for the Fall of 2025.
 
 
